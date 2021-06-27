@@ -1,0 +1,7 @@
+INFO    2021-01-30 17:34:22,448 [main] TestProperties2  - OR properties loaded
+INFO    2021-01-30 17:34:22,450 [main] TestProperties2  - Config properties loaded
+INFO    2021-01-30 17:34:25,047 [main] TestProperties2  - Chrome browser launched
+INFO    2021-01-30 17:34:27,116 [main] TestProperties2  - Navigated to :http://facebook.com
+INFO    2021-01-30 17:34:27,394 [main] TestProperties2  - Typing in an Element : email_XPATH  entered the value as : trainer@way2automation.com
+INFO    2021-01-30 17:34:27,484 [main] TestProperties2  - Typing in an Element : password_ID  entered the value as : hdgsjha
+INFO    2021-01-30 17:34:27,541 [main] TestProperties2  - clicking on an elementloginBtn_CSS
